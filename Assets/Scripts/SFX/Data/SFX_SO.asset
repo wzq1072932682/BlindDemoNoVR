@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eb5979b59b0b46c4ca16aed9e9a2c857, type: 3}
+  m_Name: SFX_SO
+  m_EditorClassIdentifier: 
+  SFX_Data:
+  - itemName: smell
+    audioClip: {fileID: 8300000, guid: 4e4754e37b7a1534a95967cc2363f52e, type: 3}
+  - itemName: taste
+    audioClip: {fileID: 8300000, guid: f972b0a0eff8a2f49952a3bd8d0c5767, type: 3}
+  - itemName: spoonOut
+    audioClip: {fileID: 8300000, guid: 5e0e405f828dc894fa42eaee9b43cc86, type: 3}
+  - itemName: drop
+    audioClip: {fileID: 8300000, guid: cf88be5353c9edf44b4b957b9319037d, type: 3}

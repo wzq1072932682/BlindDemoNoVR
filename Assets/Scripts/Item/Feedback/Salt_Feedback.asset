@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f3d90d490bc6f7a49895511597cb9055, type: 3}
+  m_Name: Salt_Feedback
+  m_EditorClassIdentifier: 
+  feedbackRanges:
+  - rangeCeiling: 1
+    feedback: "\u6CA1\u6709\u76D0\u5473"
+  - rangeCeiling: 2
+    feedback: "\u6709\u4E00\u70B9\u76D0"
+  - rangeCeiling: 4
+    feedback: "\u76D0\u5EA6\u521A\u521A\u597D"
+  - rangeCeiling: 6
+    feedback: "\u5F88\u54B8"
